@@ -7,8 +7,8 @@ Pastikan kamu sudah memiliki salah satu aplikasi web server berikut:
 - Laragon
 - WAMP, dll
 Jika menggunakan XAMPP, buat folder proyek di dalam direktori:  
-`htdocs/crud_barang`  
-**2. Buat Database dan Tabel**  
+`htdocs/crud_barang`
+**2. Buat Database dan Tabel**
 - Buka `localhost/phpmyadmin`  
 - Buat database baru, namanya: `db_barang`  
 - Jalankan SQL ini:  
