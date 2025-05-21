@@ -6,14 +6,22 @@ Pastikan kamu sudah memiliki salah satu aplikasi web server berikut:
 - XAMPP (disarankan)
 - Laragon
 - WAMP, dll
-
-Jika menggunakan XAMPP  
-buat folder proyek di dalam direktori:  
+Jika menggunakan XAMPP, buat folder proyek di dalam direktori:  
 `htdocs/crud_barang`  
 **2. Buat Database dan Tabel**  
-Buka `localhost/phpmyadmin`  
-Buat database baru, namanya: `db_barang`  
-
+- Buka `localhost/phpmyadmin`  
+- Buat database baru, namanya: `db_barang`  
+- Jalankan SQL ini:  
+```sql
+CREATE TABLE barang (
+    kode VARCHAR(10) PRIMARY KEY,
+    nama_barang VARCHAR(100),
+    deskripsi TEXT,
+    harga_satuan INT,
+    jumlah INT,
+    foto VARCHAR(100)
+);
+  
 # Tampilan Data Barang
 ![image alt](https://github.com/lmmanuela/crud-barang-php/blob/6154d14886eab120d32e975ca1f97e728783a718/tampilan_data_barang.png)
 # Tampilan Tambah Barang
