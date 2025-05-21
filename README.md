@@ -20,8 +20,8 @@ CREATE TABLE barang (
     harga_satuan INT,
     jumlah INT,
     foto VARCHAR(100)
-);
----
+);```
+  
 # Tampilan Data Barang
 ![image alt](https://github.com/lmmanuela/crud-barang-php/blob/6154d14886eab120d32e975ca1f97e728783a718/tampilan_data_barang.png)
 # Tampilan Tambah Barang
