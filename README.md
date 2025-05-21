@@ -8,6 +8,7 @@ Pastikan kamu sudah memiliki salah satu aplikasi web server berikut:
 - WAMP, dll
 Jika menggunakan XAMPP, buat folder proyek di dalam direktori:  
 `htdocs/crud_barang`
+  
 **2. Buat Database dan Tabel**
 - Buka `localhost/phpmyadmin`  
 - Buat database baru, namanya: `db_barang`  
