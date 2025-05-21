@@ -1,5 +1,15 @@
-# crud-barang-php
-Aplikasi sederhana untuk CRUD berbasis website menggunakan PHP Native
+# CRUD Barang dengan PHP Native & Bootstrap
+Proyek ini adalah aplikasi web CRUD (Create, Read, Update, Delete) sederhana untuk mengelola data barang. Dibuat menggunakan PHP Native, MySQL, dan Bootstrap 5 untuk tampilan antarmuka yang modern dan responsif.
+## 🚀 Tutorial Instalasi & Setup Awal
+**1. Siapkan Lingkungan**
+Pastikan kamu sudah memiliki salah satu aplikasi web server berikut:
+- XAMPP (disarankan)
+- Laragon
+- WAMP, dll
+Jika menggunakan XAMPP:
+Buat folder proyek di dalam direktori:
+`htdocs/crud_barang`
+
 # Tampilan Data Barang
 ![image alt](https://github.com/lmmanuela/crud-barang-php/blob/6154d14886eab120d32e975ca1f97e728783a718/tampilan_data_barang.png)
 # Tampilan Tambah Barang
