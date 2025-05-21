@@ -6,8 +6,10 @@ Pastikan kamu sudah memiliki salah satu aplikasi web server berikut:
 - XAMPP (disarankan)
 - Laragon
 - WAMP, dll
+  
 Jika menggunakan XAMPP, buat folder proyek di dalam direktori:  
-`htdocs/crud_barang`
+`htdocs/crud_barang`  
+lalu letakkan file yang sudah terlampir pada repository (koneksi.php, index.php, tambah.php, edit.php, hapus.php, proses_tambah.php, proses_edit.php, upload/) ke dalam folder `crud_barang`
   
 **2. Buat Database dan Tabel**
 - Buka `localhost/phpmyadmin`  
