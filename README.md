@@ -6,6 +6,7 @@ Pastikan kamu sudah memiliki salah satu aplikasi web server berikut:
 - XAMPP (disarankan)
 - Laragon
 - WAMP, dll
+
 Jika menggunakan XAMPP:
 Buat folder proyek di dalam direktori:
 `htdocs/crud_barang`
