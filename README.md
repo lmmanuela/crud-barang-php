@@ -1,7 +1,7 @@
 # CRUD Barang dengan PHP Native & Bootstrap
 Proyek ini adalah aplikasi web CRUD (Create, Read, Update, Delete) sederhana untuk mengelola data barang. Dibuat menggunakan PHP Native, MySQL, dan Bootstrap 5 untuk tampilan antarmuka yang modern dan responsif.
 ## 🚀 Tutorial Instalasi & Setup Awal
-**1. Siapkan Lingkungan**
+**1. Siapkan Lingkungan**  
 Pastikan kamu sudah memiliki salah satu aplikasi web server berikut:
 - XAMPP (disarankan)
 - Laragon
